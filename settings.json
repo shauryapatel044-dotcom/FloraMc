@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Flora_Mc_S1.aternos.me",
+    "port": 46322,
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
